@@ -1,0 +1,78 @@
+.card {
+  margin-top: 2%;
+}
+.btn {
+  margin: 0 0 0 0;
+}
+
+form {
+  margin: 2% 0 0 0;
+}
+
+.list-group {
+  padding: 0;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.card-header {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+#expense-name {
+  text-align: left;
+  width: 100%;
+  font-size: 1.2rem;
+}
+
+#expense-balance {
+  text-align: left;
+  width: 100%;
+  font-size: 1.2rem;
+  color: green;
+}
+
+#balance-total {
+  font-size: 1.2rem;
+}
+
+#total {
+  color: green;
+}
+
+#input-group {
+  width: 20vw;
+}
+
+.fas {
+  margin: 0 2% 0 2%;
+  font-size: 1.4rem;
+  cursor: pointer;
+}
+.fa-trash-alt,
+.fa-plus-circle {
+  margin-top: 5%;
+  font-size: 1.8rem;
+}
+
+.fa-minus-circle,
+.fa-edit {
+  font-size: 1.5rem;
+}
+
+.form-group h5 {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.form-control,
+.input-group-text {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.form-control {
+  height: 41.5px;
+}
